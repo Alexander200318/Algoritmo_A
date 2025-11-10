@@ -124,6 +124,7 @@ class AStarPathFinder:
 st.set_page_config(page_title="Rutas en Cuenca con A*", layout="wide")
 
 st.title("🗺️ Planificador de Rutas en Cuenca - Algoritmo A*")
+st.markdown("Nombre: Alexander Loja    Curso: M6A")
 st.markdown("Encuentra la ruta más corta entre dos puntos turísticos de Cuenca usando el algoritmo A*")
 
 # Inicializar session_state
